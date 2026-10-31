@@ -1,0 +1,7 @@
+#!name = Dify AI DNS Fix
+#!desc = Fix Loon Fake-IP conflicts with Dify and AI services
+#!author = Local
+#!system = macOS
+
+[General]
+real-ip = marketplace.dify.ai,*.r2.cloudflarestorage.com,api.siliconflow.cn
